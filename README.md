@@ -1,3 +1,7 @@
+# Week 1|Batch 5 |NIT Bhopal| Madhur Gupta
+
+## Git commands
+
 ### i) Setup a Local Repository:
     - cd /path/to/folder
     - git init
@@ -19,7 +23,7 @@
     - git branch dev_branch
     - git branch delivery_branch
 
-### iv) create remote branches:
+### iv) Create remote branches:
     - git push origin –all
 
 ### v) Add files, Make changes to existing files , Add folders, Remove folders, remove files :
